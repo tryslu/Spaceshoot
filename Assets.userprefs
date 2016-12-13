@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\bossScript.js">
+    <Files>
+      <File FileName="Assets\bossScript.js" Line="23" Column="4" />
+      <File FileName="Assets\initialAll.js" Line="3" Column="23" />
+      <File FileName="Assets\enemyScript.js" Line="11" Column="27" />
+      <File FileName="Assets\playerScript.js" Line="30" Column="26" />
+      <File FileName="Assets\bossbulletScript.js" Line="13" Column="19" />
+      <File FileName="Assets\MenuScript.js" Line="16" Column="23" />
+      <File FileName="Assets\winScript.js" Line="16" Column="22" />
+      <File FileName="Assets\bulletScript.js" Line="28" Column="2" />
+      <File FileName="Assets\loseScript.js" Line="16" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
